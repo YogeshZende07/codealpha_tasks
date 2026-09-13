@@ -1,0 +1,18 @@
+# Compiled output
+target/
+*.class
+
+# Runtime persistence (generated at first run)
+data/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
