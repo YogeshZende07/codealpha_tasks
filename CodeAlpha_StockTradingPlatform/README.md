@@ -186,15 +186,32 @@ Starting Balance: ₹100,000
 *(Placeholder — add screenshots of the Login, Dashboard, Market Data, Buy/Sell, Portfolio, and
 Performance screens here after running the app.)*
 
-```
+
 screenshots/
-  01-login.png
-  02-dashboard.png
-  03-market-data.png
-  04-buy-stock.png
-  05-portfolio.png
-  06-performance.png
-```
+ ### 1. Login Screen
+![Login Screen](screenshots/01-login.png)
+
+### 2. Dashboard
+![Dashboard](screenshots/02-dashboard.png)
+
+### 3. Market Data
+![Market Data](screenshots/03-market-data.png)
+
+### 4. Buy Stock
+![Buy Stock](screenshots/04-buy-stock.png)
+
+### 5. Portfolio
+![Portfolio](screenshots/05-portfolio.png)
+
+### 6. Performance
+![Performance](screenshots/06-performance.png)
+
+### 7. Transactions
+![Transactions](screenshots/07-transactions.png)
+
+### 8. Sell Stock
+![Sell Stock](screenshots/08-sell-stock.png)
+
 
 ---
 
